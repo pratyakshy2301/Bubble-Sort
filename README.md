@@ -1,1 +1,1 @@
-# Bubble Sort
+# Quick Sort
